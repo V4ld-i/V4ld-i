@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there
+I´m V4ld-i a student of Informatics Engineering in Spain, at UBU.
 
 <!--
 **V4ld-i/V4ld-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
