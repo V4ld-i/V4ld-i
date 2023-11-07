@@ -1,6 +1,7 @@
 ## Hi there
 I´m V4ld-i a student of Informatics Engineering in Spain, at UBU.
 
+![Proyecto_VAGrande.jpg](https://github.com/V4ld-i/V4ld-i/blob/55bd5995e9b52a219743772b98ed525a48c70c70/Proyecto_VAGrande.jpg)
 <!--
 **V4ld-i/V4ld-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
